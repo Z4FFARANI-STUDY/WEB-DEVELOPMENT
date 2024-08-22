@@ -1,5 +1,5 @@
 import Header from "./componentes/Header.jsx"
-import MainInfo from "./componentes/MainInfo.jsx"
+import { Outlet } from 'react-router-dom'
 import Footer from "./componentes/Footer.jsx"
 
 function App() {
@@ -7,10 +7,12 @@ function App() {
   return (
     <>
       <Header/>
-      <MainInfo/>
+      <Outlet/>
       <Footer/>
     </>
   )
 }
 
 export default App
+
+

@@ -2,7 +2,7 @@ import "../../src/index.css"
 
 function MainInfo() {
     return (
-        <div class="mainInfo">
+        <div className="mainInfo">
          <section id="info">
             <div className="personal-info">
                 <h2>Informações Pessoais</h2>
@@ -12,7 +12,7 @@ function MainInfo() {
             </div>
             <div className="skills">
                 <h2>Habilidades</h2>
-                <div class="skill-card">
+                <div className="skill-card">
                     <h3>HTML</h3>
                     <p>Nível: Avançado</p>
                 </div>
