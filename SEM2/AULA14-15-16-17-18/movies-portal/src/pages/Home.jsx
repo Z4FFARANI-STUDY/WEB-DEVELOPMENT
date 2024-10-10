@@ -5,7 +5,7 @@ import MovieCard from '../components/MovieCard.jsx'
 
 export default function Home(){
     return (
-        <div className="flex flex-row">
+        <div className="flex">
             <CardContainer titulo='Filmes antigos'>
                 {
                     movies
