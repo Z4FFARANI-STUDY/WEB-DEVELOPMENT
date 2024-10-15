@@ -58,12 +58,12 @@ O Desenvolvimento Web é uma área dinâmica e em constante evolução, que comb
 <br>
 
 # INSTRUÇÕES
-1. No terminal da IDE, clonar o repositório:
+1. Em um terminal, clonar o repositório:
 ```bash
 git clone https://github.com/Z4FFARANI-STUDY/WEB-DEVELOPMENT.git
 ```
 
-2. No terminal da IDE, navegar até a pasta do projeto:
+2. Em um terminal, navegar até a pasta do projeto:
 ```bash
 cd WEB-DEVELOPMENT
 ```
