@@ -63,7 +63,7 @@ O Desenvolvimento Web é uma área dinâmica e em constante evolução, que comb
 git clone https://github.com/Z4FFARANI-STUDY/WEB-DEVELOPMENT.git
 ```
 
-2. Em um terminal, navegar até a pasta do projeto:
+2. No terminal, navegar até a pasta do projeto:
 ```bash
 cd WEB-DEVELOPMENT
 ```
